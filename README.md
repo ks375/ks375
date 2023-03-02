@@ -13,7 +13,7 @@ Additionally, I **actively** participate in **code reviews** & contribute to **o
 - 🌱 I'm currently honing my React development skills & open source contributions.
 - 🌍 I'm mostly active in the **React JS, React Native & Node JS Community**.
 - 🤝 I'm looking to collaborate on a few Startup ideas & [Rapid React](https://www.npmjs.com/package/rapid-react).
-- ⚙️ I daily use `.html` `.css` `.scss` `.json` `.tsx` `.jsx` `.ts` `.js`
+- ⚙️ I daily use `.html` `.css` `.scss` `.json` `.tsx` `.jsx` `.ts` `.js` `.test` `.styled`
 - 🥅 2023 Goals: Improving my leadership skills.
 - 💬 Let's talk: **Frontend development**, **Code Architecture**, **UI & UX**, **Public Speaking**.
 - 🇨🇦 Looking for help with a Software Engineer role in **United States**.
