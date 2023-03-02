@@ -15,7 +15,7 @@ Additionally, I **actively** participate in **code reviews** & contribute to **o
 - 🤝 I'm looking to collaborate on a few Startup ideas & [Rapid React](https://www.npmjs.com/package/rapid-react).
 - ⚙️ I daily use `.html` `.css` `.scss` `.json` `.tsx` `.jsx` `.ts` `.js`
 - 🥅 2023 Goals: Improving my leadership skills.
-- 💬 Let's talk: **Full Stack development**, **Code Architecture**, **UI & UX**, **Public Speaking**.
+- 💬 Let's talk: **Frontend development**, **Code Architecture**, **UI & UX**, **Public Speaking**.
 - 🇨🇦 Looking for help with a Software Engineer role in **United States**.
 - ⚡ Fun fact: I love swimming and diet. ***I married with React***
 
@@ -51,7 +51,6 @@ Additionally, I **actively** participate in **code reviews** & contribute to **o
 
   [![Node JS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)](https://nodejs.org/en/)
   [![Express JS](https://img.shields.io/badge/express-000?style=for-the-badge&logo=express&logoColor=fff)](https://expressjs.com/)
-  [![Passport JS](https://img.shields.io/badge/passport%20js-34E27A?style=for-the-badge&logo=passport&logoColor=fff)](https://www.passportjs.org/)
   [![JSON](https://img.shields.io/badge/json-000?style=for-the-badge&logo=json&logoColor=fff)](https://www.json.org/json-en.html)
   [![MongoDB](https://img.shields.io/badge/mongo%20db-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)](https://www.mongodb.com/)
   [![Mongoose JS](https://img.shields.io/badge/mongoose%20js-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)](https://mongoosejs.com/)
@@ -67,8 +66,6 @@ Additionally, I **actively** participate in **code reviews** & contribute to **o
   [![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)](https://jestjs.io/)
   [![Lodash](https://img.shields.io/badge/lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=fff)](https://lodash.com/)
   [![Moment JS](icons/moment-js.svg)](https://momentjs.com/)
-  [![iTerm2](https://img.shields.io/badge/iTerm2-000?style=for-the-badge&logo=iterm2&logoColor=fff)](https://iterm2.com/)
-  [![Oh My Zsh](https://img.shields.io/badge/oh%20my%20zsh-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=fff)](https://ohmyz.sh/)
 
 - **Tools**
 
@@ -77,7 +74,6 @@ Additionally, I **actively** participate in **code reviews** & contribute to **o
     [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)](https://github.com/)
     [![GitLab](https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab)](https://about.gitlab.com/)
     [![BitBucket](https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket)](https://bitbucket.org/)
-    [![Gerrit](https://img.shields.io/badge/gerrit-EEEEEE?style=for-the-badge&logo=gerrit&logoColor=000)](https://www.gerritcodereview.com/)
 
   - **Issue Tracking & Project Management**
 
@@ -86,7 +82,6 @@ Additionally, I **actively** participate in **code reviews** & contribute to **o
     [![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack)](https://slack.com/)
     [![Microsoft Teams](https://img.shields.io/badge/microsoft%20teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=fff)](https://www.microsoft.com/en-in/microsoft-teams/group-chat-software/)
     [![Zeplin](icons/zeplin.svg)](https://zeplin.io/)
-    [![MIRO](https://img.shields.io/badge/miro-050038?style=for-the-badge&logo=miro)](https://miro.com/)
     [![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)](https://figma.com/)
 
   - **Code Editor & Package Manager**
