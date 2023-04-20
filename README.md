@@ -4,12 +4,12 @@
 
 <br>
 
-I am James. I love **Fullstack Mobile and Web Apps** leveraging **TypeScript**, **React**, **React** **Native**, **Node.js**, etc. At present, I work in **cross functional** teams closely with product managers, designers, and testers in **agile sprints** with **daily scrum** and handle the **development**, **debugging**, **deployment**, **documentation** and **post deployment monitoring** of our user-facing application.
+I love **Fullstack Mobile and Web Apps** leveraging **TypeScript**, **React**, **React** **Native**, **Node.js**, etc. At present, I work in **cross functional** teams closely with product managers, designers, and testers in **agile sprints** with **daily scrum** and handle the **development**, **debugging**, **deployment**, **documentation** and **post deployment monitoring** of our user-facing application.
 
 Additionally, I **actively** participate in **code reviews** & contribute to **open source** and **actively** speak at tech meetups, write tech articles, mentor junior developers, & interview candidates. I have a **knack for self learning** and usually read articles at [Medium](). I enjoy being challenged with an exponential learning curve, so I quite often solve real world problems on [Stack Overflow]().
 
 - 🏢 React Engineer
-- 🔗 Let's connect [@LinkedIn](https://www.linkedin.com/in/james-zhang-217980257/)
+- 🔗 Let's connect [@LinkedIn](https://www.linkedin.com/in/austin-ames-react/)
 - 🌱 I'm currently honing my React development skills & open source contributions.
 - 🌍 I'm mostly active in the **React JS, React Native & Node JS Community**.
 - 🤝 I'm looking to collaborate on a few Startup ideas & [Rapid React](https://www.npmjs.com/package/rapid-react).
